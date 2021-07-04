@@ -1,4 +1,4 @@
-// JS Document
+// JS Document Nav menu 
 
 $(function() {
   $('button.navbar-toggle').click(function() {
