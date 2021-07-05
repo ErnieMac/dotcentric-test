@@ -3,7 +3,7 @@
 
 ## My Comments
 
-*1.* I downloaded a trial version of sketch to be able open the design
+*1.* I downloaded a trial version of sketch to be able to open the design
 
 *2.* I used a CDN copy of bootstrap version 3 to create a template making sure to get the right design layout and fonts, colours etc.
 
